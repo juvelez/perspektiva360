@@ -21,4 +21,3 @@ https://www.dropbox.com/s/xsndglfvf3mvggi/20220509_194010.mp4?dl=0
 
 Ver el resultado de esta prueba en esta dirección:
 https://www.3dlogical.com/perspektiva360/
-
