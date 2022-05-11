@@ -1,13 +1,18 @@
 # perspektiva360
 Repositorio Prueba Técnica
 
-En est erepositorio encontrarán el resultado de la prueba técnica solicitada.
+En este repositorio encontrarán el resultado de la prueba técnica solicitada.
 
 Estarán distribuidos en Submódulos, 1 para cada test
 
 1. Conexión con una API y Unity
 
+Descargar ejecutable para Windows x64 en esta dirección:
+https://www.dropbox.com/s/t4e30qve7ajwmxm/Ejercicio%201%20ver%201.0.ZIP?dl=0
+
 2. Playground de VR
+
+Este ejercicio no fue desarrollado por la no disponibilidad del hardware requerido
 
 3. Aplicación de realidad aumentada para Android o web
 
