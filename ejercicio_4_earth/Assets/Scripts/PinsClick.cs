@@ -6,6 +6,9 @@ using UnityEngine;
 /// This is an alternative to the current CLICK implementation using RayCasting
 /// Because this app is only for Web the current implementation could more suitable
 /// But this works fine too and relies on Physics and RayCasting
+/// It could be better to use this implementation if this app is going to be Mobile 
+/// and need to implement Touching instead of Clicking
+/// This must be attached to the Globe parent
 /// </summary>
 
 public class PinsClick : MonoBehaviour {

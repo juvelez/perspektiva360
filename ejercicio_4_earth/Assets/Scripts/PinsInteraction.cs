@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/// <summary>
+/// Each pin on the globe has this behaviour attached to it allowing mouse interation
+/// </summary>
 public class PinsInteraction : MonoBehaviour {
 
     public string countryName;

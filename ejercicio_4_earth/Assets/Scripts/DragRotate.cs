@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// The globe parent GameObject has this behaviour attached to it
+/// </summary>
 public class DragRotate : MonoBehaviour {
 
     /// <summary>
