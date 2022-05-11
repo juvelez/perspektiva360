@@ -26,3 +26,11 @@ https://www.dropbox.com/s/xsndglfvf3mvggi/20220509_194010.mp4?dl=0
 
 Ver el resultado de esta prueba en esta dirección:<br>
 https://www.3dlogical.com/perspektiva360/
+
+<b>FALTANTES EN PRUEBA</b>
+
+- En el <b>test</b> 1 se solicita valor de variable <b>'txt_inicio2'</b> pero esa variable no existe en los datos retornados, existe una <b>'txt_inicio3'</b>
+- En el <b>test 2</b> el enlace a fotografías 360 no está
+- El <b>test 4</b> está incompleto el texto de indicaciones: "...debe llevar a una pantalla de información de ese país, con texto y una ???"
+- El <b>test 4</b> es para una aplicación Web, es Web con Unity? WenGL? o es HTML5/Canvas/WebGL?
+
